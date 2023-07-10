@@ -1,4 +1,4 @@
-Welcome in my first game " MRHENIO " created with Kaboomjs.
+Welcome in my first game " MRHENIO " created with Kaboom.js.
 
 Goal: Collect as many coins as you can, avoid bugs! :D
 
